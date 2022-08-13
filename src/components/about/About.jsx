@@ -1,7 +1,7 @@
 import './about.css'
 import Me from '../../assets/me-about.jpg'
 import { FaAward } from 'react-icons/fa'
-import { FiUsers } from 'react-icons/fi'
+import { FaAws } from 'react-icons/fa'
 import { VscFolderLibrary } from 'react-icons/vsc'
 
 const About = () => {
@@ -26,9 +26,9 @@ const About = () => {
             </article>
 
             <article className='about__card'>
-              <FiUsers className='about__icon' />
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <FaAws className='about__icon' />
+              <h5>Interest</h5>
+              <small>Web & Cloud</small>
             </article>
 
             <article className='about__card'>
@@ -39,10 +39,12 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident
-            sequi, quasi obcaecati ipsam non quaerat asperiores sint reiciendis
-            assumenda deleniti autem explicabo! Maxime est deleniti dignissimos
-            facilis possimus iusto repellendus.
+            I am Muhammad Ismail. A fresh graduate from FAST - NUCES. I have few
+            months experience as a MERN Stack Developer and with docker.
+            <br /> Want to pursue a career that will enable me to apply my
+            knowledge in a competitive environment. I am eager to work in a
+            challenging and stimulating workplace where there are continuous
+            opportunities of learning and personal development.
           </p>
 
           <a href='#contact' className='btn btn-primary'>
