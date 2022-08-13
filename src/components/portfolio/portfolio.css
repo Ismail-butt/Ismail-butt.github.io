@@ -23,13 +23,25 @@
 }
 
 .portfolio__item h3 {
-  margin: 1.2rem 0 2rem;
+  margin: 1.2rem 0 0rem;
 }
 
 .portfolio__item-cta {
   display: flex;
   gap: 1rem;
   margin-bottom: 1rem;
+}
+
+.disabled {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: line-through var(--color-bg);
+}
+
+.portfolio__item p {
+  margin-bottom: 1rem;
+  color: var(--color-light);
+  font-size: 0.85rem;
 }
 
 /* Medium Devices */
