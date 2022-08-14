@@ -2,6 +2,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/proshop.png'
 import IMG2 from '../../assets/houseMarketPlace.png'
 import IMG3 from '../../assets/restApi.png'
+import IMG4 from '../../assets/darkShades.png'
 
 const data = [
   {
@@ -24,6 +25,15 @@ const data = [
   },
   {
     id: 3,
+    image: IMG4,
+    title: 'Dark Shades',
+    github: 'https://github.com/Ismail-butt/Dark-Shades',
+    demo: 'https://ismail-butt.github.io/Dark-Shades/',
+    description:
+      'Multiple static websites where I created a Landing Page, Barber Shop, A Laptop & A Travel Website.',
+  },
+  {
+    id: 4,
     image: IMG3,
     title: 'Rest Api',
     github: 'https://github.com/Ismail-butt/rest-api',
