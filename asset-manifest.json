@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.237c9561.css",
-    "main.js": "/static/js/main.7b2fd6ac.js",
+    "main.css": "/static/css/main.83eda78f.css",
+    "main.js": "/static/js/main.eb10bb72.js",
+    "static/media/me-about.jpg": "/static/media/me-about.904c7d820ac738470851.jpg",
+    "static/media/darkShades.png": "/static/media/darkShades.bd1fcb8d7b6682106a29.png",
+    "static/media/houseMarketPlace.png": "/static/media/houseMarketPlace.da103836d1f27bb2e399.png",
+    "static/media/me.png": "/static/media/me.dcf937de490518eb7de2.png",
+    "static/media/Ismail's Resume.pdf": "/static/media/Ismail's Resume.80cc1f248cdbea33edbf.pdf",
+    "static/media/proshop.png": "/static/media/proshop.872713dade9c00337d36.png",
+    "static/media/restApi.png": "/static/media/restApi.8d0802db6f6dde32f270.png",
     "index.html": "/index.html",
-    "main.237c9561.css.map": "/static/css/main.237c9561.css.map",
-    "main.7b2fd6ac.js.map": "/static/js/main.7b2fd6ac.js.map"
+    "main.83eda78f.css.map": "/static/css/main.83eda78f.css.map",
+    "main.eb10bb72.js.map": "/static/js/main.eb10bb72.js.map"
   },
   "entrypoints": [
-    "static/css/main.237c9561.css",
-    "static/js/main.7b2fd6ac.js"
+    "static/css/main.83eda78f.css",
+    "static/js/main.eb10bb72.js"
   ]
 }
