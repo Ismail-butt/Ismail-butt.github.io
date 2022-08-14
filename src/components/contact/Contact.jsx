@@ -52,9 +52,9 @@ const Contact = () => {
           <article className='contact__option'>
             <FaLinkedin className='contact__option-icon' />
             <h4>Linkedln</h4>
-            <h5>ismailbutt89@gmail.com</h5>
+            <h5>Muhammad Ismail</h5>
             <a
-              href='mailto:ismailbutt89@gmail.com'
+              href='https://www.linkedin.com/in/mismaildev/'
               rel='noreferrer'
               target='_blank'
             >
@@ -66,7 +66,7 @@ const Contact = () => {
             <h4>WhatsApp</h4>
             <h5>+923117650048</h5>
             <a
-              href='https://api.whatsapp.com/send?phone=+923117650048'
+              href='https://api.whatsapp.com/send?phone=923117650048'
               rel='noreferrer'
               target='_blank'
             >
