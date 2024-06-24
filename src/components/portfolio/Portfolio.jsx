@@ -3,17 +3,17 @@ import IMG1 from "../../assets/proshop.png";
 import IMG2 from "../../assets/houseMarketPlace.png";
 import IMG3 from "../../assets/restApi.png";
 import IMG4 from "../../assets/darkShades.png";
-import IMG5 from "../../assets/hypeAi.png";
+import IMG5 from "../../assets/hypeAI.jpg";
 
 const data = [
-  // {
-  //   id: 1,
-  //   image: IMG5,
-  //   title: "Hype AI",
-  //   demo: "https://www.gethype.ai/",
-  //   description:
-  //     "AI Designed By Marketers, For Marketers. Transform your brand with a next generation suite of marketing solutions.",
-  // },
+  {
+    id: 1,
+    image: IMG5,
+    title: "Hype AI",
+    demo: "https://www.gethype.ai/",
+    description:
+      "AI Designed By Marketers, For Marketers. Transform your brand with a next generation suite of marketing solutions.",
+  },
   {
     id: 2,
     image: IMG1,
